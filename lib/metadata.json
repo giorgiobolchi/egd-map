@@ -1,0 +1,2078 @@
+{
+  "vaultName": "EGD_map",
+  "lastExport": 1734343720364,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon is-focused",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "TA1_Climate ambition/TA1_Climate ambition.md",
+    "TA1_Climate ambition/TA1.1-TA1.3.md",
+    "TA1_Climate ambition/TA1.4.md",
+    "TA1_Climate ambition/TA1.5.md",
+    "TA1_Climate ambition/TA1.6.md",
+    "TA1_Climate ambition/TA1.7.md",
+    "TA1_Climate ambition/TA1.8.md",
+    "TA1_Climate ambition/TA1.9.md",
+    "TA1_Climate ambition/TA1.10.md",
+    "TA1_Climate ambition/TA1.11.md",
+    "TA1_Climate ambition/TA1.12.md",
+    "TA1_Climate ambition/TA1.13.md",
+    "TA1_Climate ambition/TA1.14.md",
+    "TA1_Climate ambition/TA1.15.md",
+    "TA1_Climate ambition/TA1.16.md",
+    "TA2_Clean, affordable and secure energy/TA2_Clean, affordable and secure energy.md",
+    "TA2_Clean, affordable and secure energy/TA2.1.md",
+    "TA2_Clean, affordable and secure energy/TA2.2.md",
+    "TA2_Clean, affordable and secure energy/TA2.3.md",
+    "TA2_Clean, affordable and secure energy/TA2.4.md",
+    "TA2_Clean, affordable and secure energy/TA2.5.md",
+    "TA2_Clean, affordable and secure energy/TA2.6.md",
+    "TA2_Clean, affordable and secure energy/TA2.7.md",
+    "TA2_Clean, affordable and secure energy/TA2.8.md",
+    "TA2_Clean, affordable and secure energy/TA2.9.md",
+    "TA2_Clean, affordable and secure energy/TA2.10.md",
+    "TA2_Clean, affordable and secure energy/TA2.11.md",
+    "TA2_Clean, affordable and secure energy/TA2.12.md",
+    "TA2_Clean, affordable and secure energy/TA2.13.md",
+    "TA2_Clean, affordable and secure energy/TA2.14.md",
+    "TA2_Clean, affordable and secure energy/TA2.15.md",
+    "TA2_Clean, affordable and secure energy/TA2.16.md",
+    "TA2_Clean, affordable and secure energy/TA2.17.md",
+    "TA2_Clean, affordable and secure energy/TA2.18.md",
+    "TA2_Clean, affordable and secure energy/TA2.19.md",
+    "TA2_Clean, affordable and secure energy/TA2.20.md",
+    "TA2_Clean, affordable and secure energy/TA2.21.md",
+    "TA2_Clean, affordable and secure energy/TA2.22.md",
+    "TA2_Clean, affordable and secure energy/TA2.23.md",
+    "TA2_Clean, affordable and secure energy/TA2.24.md",
+    "TA2_Clean, affordable and secure energy/TA2.25.md",
+    "TA2_Clean, affordable and secure energy/TA2.26.md",
+    "TA2_Clean, affordable and secure energy/TA2.27.md",
+    "TA2_Clean, affordable and secure energy/TA2.28.md",
+    "TA2_Clean, affordable and secure energy/TA2.29.md",
+    "TA2_Clean, affordable and secure energy/TA2.30.md",
+    "TA2_Clean, affordable and secure energy/TA2.31.md",
+    "TA2_Clean, affordable and secure energy/TA2.32.md",
+    "TA2_Clean, affordable and secure energy/TA2.35.md",
+    "TA2_Clean, affordable and secure energy/TA2.36.md",
+    "TA2_Clean, affordable and secure energy/TA2.37.md",
+    "TA2_Clean, affordable and secure energy/TA2.38.md",
+    "TA2_Clean, affordable and secure energy/TA2.39.md",
+    "TA2_Clean, affordable and secure energy/TA2.40.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3_Industrial strategy for a clean and circular economy.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.1.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.2.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.3.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.4.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.5.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.6.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.7.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.8.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.9.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.10.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.11.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.12.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.13.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.14.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.15.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.16.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.17.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.18.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.19.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.20.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.21.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.22.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.23.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.24.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.25.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.26.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.27.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.28.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.29.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.30.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.31.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.32.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.33.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.34.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.35.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.36.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.37.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.38.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.39.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.40.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.41.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.42.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.43.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.44.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.45.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.46.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.47.md",
+    "TA3_Industrial strategy for a clean and circular economy/TA3.48.md",
+    "TA4_Sustainable and smart mobility/TA4_Sustainable and smart mobility.md",
+    "TA4_Sustainable and smart mobility/TA4.1.md",
+    "TA4_Sustainable and smart mobility/TA4.2.md",
+    "TA4_Sustainable and smart mobility/TA4.3.md",
+    "TA4_Sustainable and smart mobility/TA4.4.md",
+    "TA4_Sustainable and smart mobility/TA4.5.md",
+    "TA4_Sustainable and smart mobility/TA4.6.md",
+    "TA4_Sustainable and smart mobility/TA4.7.md",
+    "TA4_Sustainable and smart mobility/TA4.8.md",
+    "TA4_Sustainable and smart mobility/TA4.9.md",
+    "TA4_Sustainable and smart mobility/TA4.10.md",
+    "TA4_Sustainable and smart mobility/TA4.11.md",
+    "TA4_Sustainable and smart mobility/TA4.12.md",
+    "TA4_Sustainable and smart mobility/TA4.13.md",
+    "TA4_Sustainable and smart mobility/TA4.14.md",
+    "TA4_Sustainable and smart mobility/TA4.15.md",
+    "TA4_Sustainable and smart mobility/TA4.16.md",
+    "TA4_Sustainable and smart mobility/TA4.17.md",
+    "TA4_Sustainable and smart mobility/TA4.18.md",
+    "TA4_Sustainable and smart mobility/TA4.19.md",
+    "TA4_Sustainable and smart mobility/TA4.20.md",
+    "TA4_Sustainable and smart mobility/TA4.21.md",
+    "TA4_Sustainable and smart mobility/TA4.22.md",
+    "TA4_Sustainable and smart mobility/TA4.23.md",
+    "TA4_Sustainable and smart mobility/TA4.24.md",
+    "TA4_Sustainable and smart mobility/TA4.25.md",
+    "TA4_Sustainable and smart mobility/TA4.26.md",
+    "TA4_Sustainable and smart mobility/TA4.27.md",
+    "TA4_Sustainable and smart mobility/TA4.28.md",
+    "TA4_Sustainable and smart mobility/TA4.29.md",
+    "TA4_Sustainable and smart mobility/TA4.30.md",
+    "TA4_Sustainable and smart mobility/TA4.31.md",
+    "TA4_Sustainable and smart mobility/TA4.32.md",
+    "TA4_Sustainable and smart mobility/TA4.33.md",
+    "TA4_Sustainable and smart mobility/TA4.34.md",
+    "TA4_Sustainable and smart mobility/TA4.35.md",
+    "TA4_Sustainable and smart mobility/TA4.36.md",
+    "TA4_Sustainable and smart mobility/TA4.37.md",
+    "TA4_Sustainable and smart mobility/TA4.38.md",
+    "TA4_Sustainable and smart mobility/TA4.39.md",
+    "TA4_Sustainable and smart mobility/TA4.40.md",
+    "TA4_Sustainable and smart mobility/TA4.41.md",
+    "TA4_Sustainable and smart mobility/TA4.42.md",
+    "TA4_Sustainable and smart mobility/TA4.43.md",
+    "TA4_Sustainable and smart mobility/TA4.44.md",
+    "TA4_Sustainable and smart mobility/TA4.45.md",
+    "TA4_Sustainable and smart mobility/TA4.46.md",
+    "TA4_Sustainable and smart mobility/TA4.47.md",
+    "TA4_Sustainable and smart mobility/TA4.48.md",
+    "TA4_Sustainable and smart mobility/TA4.49.md",
+    "TA4_Sustainable and smart mobility/TA4.50.md",
+    "TA4_Sustainable and smart mobility/TA4.51.md",
+    "TA4_Sustainable and smart mobility/TA4.53.md",
+    "TA4_Sustainable and smart mobility/TA4.54.md",
+    "TA4_Sustainable and smart mobility/TA4.55.md",
+    "TA4_Sustainable and smart mobility/TA4.56.md",
+    "TA4_Sustainable and smart mobility/TA4.57.md",
+    "TA4_Sustainable and smart mobility/TA4.58.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.1.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.2.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.3.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.4.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.5.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.6.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.7.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.8.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.9.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.10.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.11.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.12.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.13.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.14.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.15.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.16.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.17.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.18.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.19.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.20.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.21.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.22.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.23.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.24.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.25.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.26.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.27.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.28.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.29.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.30.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.31.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.32.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.33.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.34.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.35.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.36.md",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.37.md",
+    "TA6_Preserving and protecting biodiversity/TA6_Preserving and protecting biodiversity.md",
+    "TA6_Preserving and protecting biodiversity/TA6.1.md",
+    "TA6_Preserving and protecting biodiversity/TA6.2.md",
+    "TA6_Preserving and protecting biodiversity/TA6.3.md",
+    "TA6_Preserving and protecting biodiversity/TA6.4.md",
+    "TA6_Preserving and protecting biodiversity/TA6.5.md",
+    "TA6_Preserving and protecting biodiversity/TA6.7.md",
+    "TA6_Preserving and protecting biodiversity/TA6.8.md",
+    "TA6_Preserving and protecting biodiversity/TA6.9.md",
+    "TA6_Preserving and protecting biodiversity/TA6.10.md",
+    "TA6_Preserving and protecting biodiversity/TA6.11.md",
+    "TA6_Preserving and protecting biodiversity/TA6.12.md",
+    "TA6_Preserving and protecting biodiversity/TA6.13.md",
+    "TA6_Preserving and protecting biodiversity/TA6.14.md",
+    "TA6_Preserving and protecting biodiversity/TA6.15.md",
+    "TA6_Preserving and protecting biodiversity/TA6.16.md",
+    "TA6_Preserving and protecting biodiversity/TA6.17.md",
+    "TA6_Preserving and protecting biodiversity/TA6.18.md",
+    "TA6_Preserving and protecting biodiversity/TA6.19.md",
+    "TA6_Preserving and protecting biodiversity/TA6.20.md",
+    "TA6_Preserving and protecting biodiversity/TA6.21.md",
+    "TA6_Preserving and protecting biodiversity/TA6.22.md",
+    "TA6_Preserving and protecting biodiversity/TA6.23.md",
+    "TA6_Preserving and protecting biodiversity/TA6.24.md",
+    "TA6_Preserving and protecting biodiversity/TA6.25.md",
+    "TA6_Preserving and protecting biodiversity/TA6.26.md",
+    "TA6_Preserving and protecting biodiversity/TA6.27.md",
+    "TA6_Preserving and protecting biodiversity/TA6.28.md",
+    "TA6_Preserving and protecting biodiversity/TA6.29.md",
+    "TA6_Preserving and protecting biodiversity/TA6.30.md",
+    "TA6_Preserving and protecting biodiversity/TA6.31.md",
+    "TA6_Preserving and protecting biodiversity/TA6.32.md",
+    "TA6_Preserving and protecting biodiversity/TA6.33.md",
+    "TA6_Preserving and protecting biodiversity/TA6.34.md",
+    "TA6_Preserving and protecting biodiversity/TA6.35.md",
+    "TA6_Preserving and protecting biodiversity/TA6.36.md",
+    "TA6_Preserving and protecting biodiversity/TA6.37.md",
+    "TA6_Preserving and protecting biodiversity/TA6.38.md",
+    "TA6_Preserving and protecting biodiversity/TA6.39.md",
+    "TA6_Preserving and protecting biodiversity/TA6.40.md",
+    "TA6_Preserving and protecting biodiversity/TA6.41.md",
+    "TA6_Preserving and protecting biodiversity/TA6.42.md",
+    "TA6_Preserving and protecting biodiversity/TA6.43.md",
+    "TA6_Preserving and protecting biodiversity/TA6.44.md",
+    "TA6_Preserving and protecting biodiversity/TA6.45.md",
+    "TA6_Preserving and protecting biodiversity/TA6.46.md",
+    "TA6_Preserving and protecting biodiversity/TA6.47.md",
+    "TA6_Preserving and protecting biodiversity/TA6.48.md",
+    "TA6_Preserving and protecting biodiversity/TA6.49.md",
+    "TA6_Preserving and protecting biodiversity/TA6.50.md",
+    "TA6_Preserving and protecting biodiversity/TA6.51.md",
+    "TA6_Preserving and protecting biodiversity/TA6.52.md",
+    "TA6_Preserving and protecting biodiversity/TA6.53.md",
+    "TA6_Preserving and protecting biodiversity/TA6.54.md",
+    "TA6_Preserving and protecting biodiversity/TA6.55.md",
+    "TA6_Preserving and protecting biodiversity/TA6.56.md",
+    "TA6_Preserving and protecting biodiversity/TA6.57.md",
+    "TA6_Preserving and protecting biodiversity/TA6.58.md",
+    "TA6_Preserving and protecting biodiversity/TA6.59.md",
+    "TA6_Preserving and protecting biodiversity/TA6.60.md",
+    "TA6_Preserving and protecting biodiversity/TA6.61.md",
+    "TA6_Preserving and protecting biodiversity/TA6.62.md",
+    "TA6_Preserving and protecting biodiversity/TA6.63.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7_Towards a zero-pollution ambition for a toxic free environment.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.1.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.2.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.3.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.4.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.5.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.6.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.7.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.8.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.9.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.10.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.11.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.12.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.13.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.14.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.15.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.16.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.17.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.18.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.19.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.20.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.21.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.22.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.23.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.24.md",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.25.md",
+    "TA1_Climate ambition.canvas",
+    "TA2_Clean, affordable and secure energy.canvas",
+    "TA3_Industrial strategy for a clean and circular economy.canvas",
+    "TA4_Sustainable and smart mobility.canvas",
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy.canvas",
+    "TA6_Preserving and protecting biodiversity.canvas",
+    "TA7_Towards a zero-pollution ambition for a toxic free environment.canvas"
+  ],
+  "mainDependencies": [],
+  "fileInfo": {
+    "TA1_Climate ambition/TA1_Climate ambition.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 13,
+      "exportedPath": "TA1_Climate ambition/TA1_Climate ambition.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.1-TA1.3.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 248,
+      "exportedPath": "TA1_Climate ambition/TA1.1-TA1.3.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.4.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 156,
+      "exportedPath": "TA1_Climate ambition/TA1.4.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.5.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 96,
+      "exportedPath": "TA1_Climate ambition/TA1.5.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.6.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 60,
+      "exportedPath": "TA1_Climate ambition/TA1.6.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.7.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 142,
+      "exportedPath": "TA1_Climate ambition/TA1.7.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.8.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 343,
+      "exportedPath": "TA1_Climate ambition/TA1.8.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.9.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 313,
+      "exportedPath": "TA1_Climate ambition/TA1.9.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.10.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 521,
+      "exportedPath": "TA1_Climate ambition/TA1.10.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.11.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 357,
+      "exportedPath": "TA1_Climate ambition/TA1.11.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.12.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 235,
+      "exportedPath": "TA1_Climate ambition/TA1.12.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.13.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 437,
+      "exportedPath": "TA1_Climate ambition/TA1.13.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.14.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 418,
+      "exportedPath": "TA1_Climate ambition/TA1.14.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.15.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 170,
+      "exportedPath": "TA1_Climate ambition/TA1.15.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition/TA1.16.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 264,
+      "exportedPath": "TA1_Climate ambition/TA1.16.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2_Clean, affordable and secure energy.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 11,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2_Clean, affordable and secure energy.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.1.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 359,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.1.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.2.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 188,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.2.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.3.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 355,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.3.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.4.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 239,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.4.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.5.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 185,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.5.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.6.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 202,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.6.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.7.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 279,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.7.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.8.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 264,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.8.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.9.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 242,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.9.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.10.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 249,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.10.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.11.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 590,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.11.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.12.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 408,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.12.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.13.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 575,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.13.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.14.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 447,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.14.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.15.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 391,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.15.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.16.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 453,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.16.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.17.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 747,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.17.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.18.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 494,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.18.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.19.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 262,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.19.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.20.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 239,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.20.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.21.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 272,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.21.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.22.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 337,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.22.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.23.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 356,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.23.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.24.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 483,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.24.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.25.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 143,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.25.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.26.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 238,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.26.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.27.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 326,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.27.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.28.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 161,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.28.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.29.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 464,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.29.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.30.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 553,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.30.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.31.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 145,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.31.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.32.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 162,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.32.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.35.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 385,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.35.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.36.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 191,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.36.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.37.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 298,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.37.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.38.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 557,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.38.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.39.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 206,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.39.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy/TA2.40.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 202,
+      "exportedPath": "TA2_Clean, affordable and secure energy/TA2.40.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3_Industrial strategy for a clean and circular economy.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 11,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3_Industrial strategy for a clean and circular economy.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.1.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 171,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.1.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.2.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 167,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.2.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.3.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 169,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.3.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.4.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 323,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.4.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.5.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 460,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.5.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.6.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 92,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.6.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.7.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 92,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.7.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.8.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 421,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.8.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.9.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 360,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.9.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.10.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 358,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.10.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.11.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 394,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.11.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.12.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 389,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.12.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.13.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 92,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.13.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.14.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 92,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.14.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.15.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 528,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.15.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.16.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 538,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.16.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.17.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 378,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.17.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.18.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 321,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.18.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.19.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 292,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.19.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.20.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 435,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.20.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.21.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 761,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.21.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.22.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 351,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.22.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.23.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 290,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.23.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.24.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 234,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.24.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.25.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 317,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.25.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.26.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 92,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.26.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.27.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 305,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.27.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.28.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 816,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.28.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.29.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 491,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.29.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.30.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 221,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.30.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.31.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 195,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.31.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.32.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 152,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.32.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.33.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 148,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.33.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.34.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 158,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.34.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.35.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 153,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.35.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.36.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 149,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.36.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.37.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 163,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.37.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.38.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 92,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.38.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.39.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 430,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.39.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.40.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 294,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.40.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.41.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 354,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.41.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.42.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 561,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.42.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.43.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 314,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.43.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.44.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 299,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.44.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.45.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 272,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.45.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.46.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 210,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.46.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.47.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 222,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.47.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy/TA3.48.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 92,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy/TA3.48.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4_Sustainable and smart mobility.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 11,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4_Sustainable and smart mobility.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.1.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 435,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.1.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.2.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.2.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.3.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 371,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.3.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.4.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 172,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.4.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.5.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 393,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.5.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.6.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 316,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.6.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.7.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 499,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.7.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.8.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 308,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.8.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.9.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 115,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.9.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.10.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 337,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.10.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.11.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 169,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.11.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.12.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 329,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.12.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.13.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 207,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.13.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.14.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 242,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.14.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.15.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 1503,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.15.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.16.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 1076,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.16.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.17.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 440,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.17.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.18.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.18.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.19.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.19.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.20.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 509,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.20.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.21.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 511,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.21.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.22.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 246,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.22.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.23.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 194,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.23.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.24.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.24.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.25.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 1146,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.25.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.26.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 462,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.26.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.27.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 1422,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.27.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.28.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 307,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.28.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.29.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 358,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.29.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.30.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 238,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.30.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.31.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 390,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.31.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.32.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 422,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.32.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.33.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 456,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.33.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.34.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 798,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.34.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.35.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.35.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.36.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 227,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.36.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.37.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 104,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.37.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.38.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 178,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.38.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.39.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 334,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.39.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.40.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 191,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.40.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.41.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.41.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.42.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.42.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.43.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 149,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.43.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.44.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 223,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.44.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.45.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 145,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.45.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.46.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 154,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.46.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.47.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 128,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.47.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.48.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.48.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.49.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 70,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.49.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.50.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 153,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.50.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.51.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 185,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.51.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.53.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 144,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.53.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.54.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 293,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.54.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.55.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 119,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.55.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.56.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 170,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.56.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.57.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 225,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.57.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility/TA4.58.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 131,
+      "exportedPath": "TA4_Sustainable and smart mobility/TA4.58.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 11,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.1.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 109,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.1.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.2.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 229,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.2.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.3.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 220,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.3.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.4.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 261,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.4.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.5.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 264,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.5.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.6.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 289,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.6.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.7.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 454,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.7.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.8.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 218,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.8.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.9.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 297,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.9.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.10.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 316,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.10.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.11.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 236,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.11.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.12.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 257,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.12.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.13.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 236,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.13.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.14.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 283,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.14.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.15.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 214,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.15.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.16.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 257,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.16.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.17.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 258,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.17.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.18.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 346,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.18.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.19.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 165,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.19.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.20.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 162,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.20.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.21.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 403,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.21.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.22.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 222,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.22.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.23.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 177,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.23.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.24.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 592,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.24.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.25.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 225,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.25.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.26.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 248,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.26.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.27.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 262,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.27.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.28.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 182,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.28.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.29.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 287,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.29.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.30.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 246,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.30.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.31.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 245,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.31.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.32.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 177,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.32.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.33.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 233,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.33.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.34.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 168,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.34.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.35.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 354,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.35.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.36.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 109,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.36.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.37.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 109,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy/TA5.37.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6_Preserving and protecting biodiversity.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 0,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6_Preserving and protecting biodiversity.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.1.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 157,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.1.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.2.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 156,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.2.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.3.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 133,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.3.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.4.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 220,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.4.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.5.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 226,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.5.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.7.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 316,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.7.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.8.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 197,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.8.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.9.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 293,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.9.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.10.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 177,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.10.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.11.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 185,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.11.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.12.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 170,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.12.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.13.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 154,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.13.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.14.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 165,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.14.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.15.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 233,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.15.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.16.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 213,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.16.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.17.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 304,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.17.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.18.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 208,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.18.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.19.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.19.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.20.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.20.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.21.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 286,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.21.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.22.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.22.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.23.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.23.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.24.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.24.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.25.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.25.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.26.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 398,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.26.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.27.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 219,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.27.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.28.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 243,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.28.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.29.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.29.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.30.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.30.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.31.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.31.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.32.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 461,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.32.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.33.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 463,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.33.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.34.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 798,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.34.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.35.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 762,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.35.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.36.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 752,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.36.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.37.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 303,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.37.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.38.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 696,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.38.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.39.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 510,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.39.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.40.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 528,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.40.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.41.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 418,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.41.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.42.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 581,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.42.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.43.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 531,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.43.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.44.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 1022,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.44.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.45.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 700,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.45.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.46.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 673,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.46.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.47.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 722,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.47.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.48.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 619,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.48.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.49.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 535,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.49.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.50.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 379,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.50.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.51.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 917,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.51.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.52.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 466,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.52.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.53.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.53.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.54.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 168,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.54.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.55.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 126,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.55.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.56.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 128,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.56.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.57.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 209,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.57.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.58.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 161,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.58.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.59.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 255,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.59.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.60.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 230,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.60.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.61.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 67,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.61.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.62.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 88,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.62.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity/TA6.63.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 190,
+      "exportedPath": "TA6_Preserving and protecting biodiversity/TA6.63.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7_Towards a zero-pollution ambition for a toxic free environment.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 11,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7_Towards a zero-pollution ambition for a toxic free environment.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.1.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 308,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.1.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.2.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 513,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.2.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.3.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 252,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.3.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.4.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 1423,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.4.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.5.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 2056,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.5.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.6.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 102,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.6.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.7.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 196,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.7.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.8.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 102,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.8.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.9.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 102,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.9.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.10.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 334,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.10.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.11.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 344,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.11.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.12.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 361,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.12.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.13.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 213,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.13.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.14.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 251,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.14.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.15.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 229,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.15.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.16.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 196,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.16.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.17.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 177,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.17.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.18.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 178,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.18.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.19.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 338,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.19.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.20.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 148,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.20.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.21.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 295,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.21.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.22.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 679,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.22.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.23.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 1249,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.23.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.24.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 970,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.24.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.25.md": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 102,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment/TA7.25.html",
+      "dependencies": []
+    },
+    "TA1_Climate ambition.canvas": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 7978,
+      "exportedPath": "TA1_Climate ambition.html",
+      "dependencies": []
+    },
+    "TA2_Clean, affordable and secure energy.canvas": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 17849,
+      "exportedPath": "TA2_Clean, affordable and secure energy.html",
+      "dependencies": []
+    },
+    "TA3_Industrial strategy for a clean and circular economy.canvas": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 23562,
+      "exportedPath": "TA3_Industrial strategy for a clean and circular economy.html",
+      "dependencies": []
+    },
+    "TA4_Sustainable and smart mobility.canvas": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 24533,
+      "exportedPath": "TA4_Sustainable and smart mobility.html",
+      "dependencies": []
+    },
+    "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy.canvas": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 20335,
+      "exportedPath": "TA5_Greening the Common Agricultural Policy - ‘Farm to Fork’ Strategy.html",
+      "dependencies": []
+    },
+    "TA6_Preserving and protecting biodiversity.canvas": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 30458,
+      "exportedPath": "TA6_Preserving and protecting biodiversity.html",
+      "dependencies": []
+    },
+    "TA7_Towards a zero-pollution ambition for a toxic free environment.canvas": {
+      "modifiedTime": 1734343720364,
+      "sourceSize": 10417,
+      "exportedPath": "TA7_Towards a zero-pollution ambition for a toxic free environment.html",
+      "dependencies": []
+    }
+  }
+}
